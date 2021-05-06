@@ -56,5 +56,3 @@ class Hangman:
             return
 
 Hangman()
-
-#udt000429
