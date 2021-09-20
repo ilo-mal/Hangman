@@ -1,2 +1,2 @@
 # Hangman
-Simple hangman game.
+Simple hangman game for one player.
